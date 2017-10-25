@@ -218,10 +218,10 @@
 			},
 			{
 				"redni_broj":3,
-				"naziv_proizvoda":"",
-				"jedinica_mere":"",
-				"VP_cena":"",
-				"transportno_pakovanje":""
+				"naziv_proizvoda":"Minjon kocka Katarina 300 gr",
+				"jedinica_mere":"kom",
+				"VP_cena":83.85,
+				"transportno_pakovanje":"12"
 			},
 		],
 		"Aleksandrija":[
