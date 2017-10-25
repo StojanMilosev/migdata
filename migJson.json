@@ -1,0 +1,237 @@
+{
+	"Mesne Preradjevine Delikato":[
+		{
+			"redni_broj":1,
+			"naziv_proizvoda":"Alpska",
+			"jedinica_mere":"kg",
+			"VP_cena":322.77,
+			"transportno_pakovanje":"5kg"
+		},
+		{
+			"redni_broj":2,
+			"naziv_proizvoda":"Posebna",
+			"jedinica_mere":"kg",
+			"VP_cena":234.25,
+			"transportno_pakovanje":"5kg"
+		},
+		{
+			"redni_broj":3,
+			"naziv_proizvoda":"Pileca posebna",
+			"jedinica_mere":"kg",
+			"VP_cena":199.00,
+			"transportno_pakovanje":"5kg"
+		},
+		{
+			"redni_broj":4,
+			"naziv_proizvoda":"Pileca virsla",
+			"jedinica_mere":"kg",
+			"VP_cena":188.00,
+			"transportno_pakovanje":"5kg"
+		},
+		{
+			"redni_broj":5,
+			"naziv_proizvoda":"Pileca virsla 200 gr.vakum ",
+			"jedinica_mere":"kom",
+			"VP_cena":48.58,
+			"transportno_pakovanje":"5kg"
+		},
+		{
+			"redni_broj":6,
+			"naziv_proizvoda":"Posebna mini 400 gr",
+			"jedinica_mere":"kom",
+			"VP_cena":102.00,
+			"transportno_pakovanje":"5kg"
+		},
+		{
+			"redni_broj":7,
+			"naziv_proizvoda":"Pileca pariska mini 400 gr",
+			"jedinica_mere":"kom",
+			"VP_cena":89.60,
+			"transportno_pakovanje":"5kg"
+		},
+		{
+			"redni_broj":8,
+			"naziv_proizvoda":"Pileca pariska sa sirom mini 330 gr",
+			"jedinica_mere":"kom",
+			"VP_cena":93.73,
+			"transportno_pakovanje":"5kg"
+		},
+		{
+			"redni_broj":9,
+			"naziv_proizvoda":"Pileca pariska sa sirom i paprikom 400 gr",
+			"jedinica_mere":"kom",
+			"VP_cena":102.55,
+			"transportno_pakovanje":"5kg"
+		},
+		{
+			"redni_broj":10,
+			"naziv_proizvoda":"Pileca extra kobasica mini 400 gr",
+			"jedinica_mere":"kom",
+			"VP_cena":86.25,
+			"transportno_pakovanje":"5kg"
+		},
+		{
+			"redni_broj":11,
+			"naziv_proizvoda":"Pileca pariska specijal 330 gr",
+			"jedinica_mere":"kom",
+			"VP_cena":70.17,
+			"transportno_pakovanje":"5kg"
+		},
+		{
+			"redni_broj":12,
+			"naziv_proizvoda":"Alpska mini 400 gr",
+			"jedinica_mere":"kom",
+			"VP_cena":142.49,
+			"transportno_pakovanje":"5kg"
+		}
+
+	],
+	"Mlečni program Belkino":[
+		{
+			"redni_broj":1,
+			"naziv_proizvoda":"Mleko pasterizovano 2.8. 1lit",
+			"jedinica_mere":"litar",
+			"VP_cena":66.95,
+			"transportno_pakovanje":"15"
+		},
+		{
+				"redni_broj":2,
+				"naziv_proizvoda":"Mleko pasterizovano 1.6 1lit",
+				"jedinica_mere":"litar",
+				"VP_cena":62.83,
+				"transportno_pakovanje":"15"
+			},
+			{
+				"redni_broj":3,
+				"naziv_proizvoda":"Jogurt čaša 2.8lit",
+				"jedinica_mere":"litar",
+				"VP_cena":93.73,
+				"transportno_pakovanje":"12"
+			},
+			{
+				"redni_broj":4,
+				"naziv_proizvoda":"Jogurt flaša 1lit",
+				"jedinica_mere":"litar",
+				"VP_cena":90.64,
+				"transportno_pakovanje":"12"
+			},
+			{
+				"redni_broj":5,
+				"naziv_proizvoda":"Jogurt flaša 2.8 0.5lit",
+				"jedinica_mere":"litar",
+				"VP_cena":53.56,
+				"transportno_pakovanje":"30"
+			},
+			{
+				"redni_broj":6,
+				"naziv_proizvoda":"Jogurt čaša 2.8 0.18lit",
+				"jedinica_mere":"litar",
+				"VP_cena":18.13,
+				"transportno_pakovanje":"30"
+			},
+			{
+				"redni_broj":7,
+				"naziv_proizvoda":"Kiselo mleko čaša 0.18lit",
+				"jedinica_mere":"litar",
+				"VP_cena":19.36,
+				"transportno_pakovanje":"30"
+			},
+			{
+				"redni_broj":8,
+				"naziv_proizvoda":"Kisela Pavlaka čaša 0.18lit",
+				"jedinica_mere":"litar",
+				"VP_cena":36.26,
+				"transportno_pakovanje":"30"
+			},
+			{
+				"redni_broj":9,
+				"naziv_proizvoda":"PIZZA sir 1/1",
+				"jedinica_mere":"kg",
+				"VP_cena":700.40,
+				"transportno_pakovanje":"6"
+			},
+			{
+				"redni_broj":10,
+				"naziv_proizvoda":"PIZZA sir 1/2",
+				"jedinica_mere":"kg",
+				"VP_cena":700.40,
+				"transportno_pakovanje":"12"
+			},
+			{
+				"redni_broj":11,
+				"naziv_proizvoda":"Feta sir Belkino 1kg",
+				"jedinica_mere":"kg",
+				"VP_cena":313.12,
+				"transportno_pakovanje":"3"
+			},
+			{
+				"redni_broj":12,
+				"naziv_proizvoda":"Feta sir 450 gr",
+				"jedinica_mere":"kg",
+				"VP_cena":186.43,
+				"transportno_pakovanje":"4"
+			},
+			{
+				"redni_broj":13,
+				"naziv_proizvoda":"Sitan sir-rinfuz 10kg",
+				"jedinica_mere":"kg",
+				"VP_cena":234.84,
+				"transportno_pakovanje":"1"
+			},
+			{
+				"redni_broj":14,
+				"naziv_proizvoda":"Sitan sir 450 gr",
+				"jedinica_mere":"kg",
+				"VP_cena":120.51,
+				"transportno_pakovanje":"8"
+			},
+			{
+				"redni_broj":15,
+				"naziv_proizvoda":"Baš kajmak rinfuz",
+				"jedinica_mere":"kg",
+				"VP_cena":623.15,
+				"transportno_pakovanje":"8"
+			},
+			{
+				"redni_broj":16,
+				"naziv_proizvoda":"Zamrznuti maslac u bloku 4 kg",
+				"jedinica_mere":"kg",
+				"VP_cena":607.70,
+				"transportno_pakovanje":"1"
+			}
+	],
+	"Kondiktorski program":[
+		"Katarina Mladenovac":[
+			{
+				"redni_broj":1,
+				"naziv_proizvoda":"Krem CHOCO MIX 400 gr",
+				"jedinica_mere":"kom",
+				"VP_cena":76.96,
+				"transportno_pakovanje":"12"
+			},
+			{
+				"redni_broj":2,
+				"naziv_proizvoda":"Krem CHOCO MIX 800 gr",
+				"jedinica_mere":"kom",
+				"VP_cena":143.52,
+				"transportno_pakovanje":"8"
+			},
+			{
+				"redni_broj":3,
+				"naziv_proizvoda":"",
+				"jedinica_mere":"",
+				"VP_cena":"",
+				"transportno_pakovanje":""
+			},
+		],
+		"Aleksandrija":[
+			{
+				"redni_broj":"",
+				"naziv_proizvoda":"",
+				"jedinica_mere":"",
+				"VP_cena":"",
+				"transportno_pakovanje":""
+			}
+		],
+	]
+}
