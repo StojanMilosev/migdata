@@ -201,37 +201,190 @@
 			}
 	],
 	"Kondiktorski program":[
-		"Katarina Mladenovac":[
-			{
-				"redni_broj":1,
-				"naziv_proizvoda":"Krem CHOCO MIX 400 gr",
-				"jedinica_mere":"kom",
-				"VP_cena":76.96,
-				"transportno_pakovanje":"12"
-			},
-			{
-				"redni_broj":2,
-				"naziv_proizvoda":"Krem CHOCO MIX 800 gr",
-				"jedinica_mere":"kom",
-				"VP_cena":143.52,
-				"transportno_pakovanje":"8"
-			},
-			{
-				"redni_broj":3,
-				"naziv_proizvoda":"Minjon kocka Katarina 300 gr",
-				"jedinica_mere":"kom",
-				"VP_cena":83.85,
-				"transportno_pakovanje":"12"
-			},
-		],
-		"Aleksandrija":[
-			{
-				"redni_broj":"",
-				"naziv_proizvoda":"",
-				"jedinica_mere":"",
-				"VP_cena":"",
-				"transportno_pakovanje":""
-			}
-		],
+		{
+			"Katarina Mladenovac":[
+				{
+					"redni_broj":1,
+					"naziv_proizvoda":"Krem CHOCO MIX 400 gr",
+					"jedinica_mere":"kom",
+					"VP_cena":76.96,
+					"transportno_pakovanje":"12"
+				},
+				{
+					"redni_broj":2,
+					"naziv_proizvoda":"Krem CHOCO MIX 800 gr",
+					"jedinica_mere":"kom",
+					"VP_cena":143.52,
+					"transportno_pakovanje":"8"
+				},
+				{
+					"redni_broj":3,
+					"naziv_proizvoda":"Minjon kocka Katarina 300 gr",
+					"jedinica_mere":"kom",
+					"VP_cena":83.85,
+					"transportno_pakovanje":"12"
+				},
+				{
+					"redni_broj":4,
+					"naziv_proizvoda":"Žele mix 350 gr Katarina",
+					"jedinica_mere":"kom",
+					"VP_cena":97.83,
+					"transportno_pakovanje":"18"
+				},
+				{
+					"redni_broj":5,
+					"naziv_proizvoda":"Rum štangla 350 gr Katarina",
+					"jedinica_mere":"kom",
+					"VP_cena":"97.83",
+					"transportno_pakovanje":"18"
+				},
+				{
+					"redni_broj":6,
+					"naziv_proizvoda":"Kokos štangla 300 gr Katarina",
+					"jedinica_mere":"kom",
+					"VP_cena":83.85,
+					"transportno_pakovanje":"18"
+				},
+				{
+					"redni_broj":7,
+					"naziv_proizvoda":"Kokošija supa 40 gr Katarina",
+					"jedinica_mere":"kom",
+					"VP_cena":11.70,
+					"transportno_pakovanje":"45"
+				},
+				{
+					"redni_broj":8,
+					"naziv_proizvoda":"Goveđa supa 40 gr Katarina",
+					"jedinica_mere":"kom",
+					"VP_cena":11.70,
+					"transportno_pakovanje":"45"
+				},
+				{
+					"redni_broj":9,
+					"naziv_proizvoda":"Posna supa 40 gr Katarina",
+					"jedinica_mere":"kom",
+					"VP_cena":11.70,
+					"transportno_pakovanje":"45"
+				},
+				{
+					"redni_broj":10,
+					"naziv_proizvoda":"Kikiriki pečen slan 250 gr Katarina",
+					"jedinica_mere":"kom",
+					"VP_cena":74.61,
+					"transportno_pakovanje":"20"
+				},
+				{
+					"redni_broj":11,
+					"naziv_proizvoda":"Kakao krem tabla 100 gr Katarina",
+					"jedinica_mere":"kom",
+					"VP_cena":21.45,
+					"transportno_pakovanje":"40"
+				},
+				
+				{
+					"redni_broj":12,
+					"naziv_proizvoda":"Mlečna bela krem tabla 100 gr Katarina",
+					"jedinica_mere":"kom",
+					"VP_cena":21.45,
+					"transportno_pakovanje":"40"
+				},				
+				{
+					"redni_broj":13,
+					"naziv_proizvoda":"Aleva paprika slatka 100 gr Katarina",
+					"jedinica_mere":"kom",
+					"VP_cena":63.05,
+					"transportno_pakovanje":"30"
+				},
+				
+				{
+					"redni_broj":14,
+					"naziv_proizvoda":"Obrano mleko u prahu 100 gr Katarina",
+					"jedinica_mere":"kom",
+					"VP_cena":87.75,
+					"transportno_pakovanje":"20"
+				},				
+				{
+					"redni_broj":15,
+					"naziv_proizvoda":"Meduško 500 gr Katarina",
+					"jedinica_mere":"kom",
+					"VP_cena":81.25,
+					"transportno_pakovanje":"5"
+				},				
+				{
+					"redni_broj":16,
+					"naziv_proizvoda":"Keksiko 500 gr Katarina",
+					"jedinica_mere":"kom",
+					"VP_cena":56.39,
+					"transportno_pakovanje":"10"
+				},
+				{
+					"redni_broj":17,
+					"naziv_proizvoda":"Šlag krem beli 500 gr Katarina",
+					"jedinica_mere":"kom",
+					"VP_cena":123.50,
+					"transportno_pakovanje":"16"
+				},
+				{
+					"redni_broj":18,
+					"naziv_proizvoda":"Šlag krem beli 100 gr Katarina",
+					"jedinica_mere":"kom",
+					"VP_cena":27.79,
+					"transportno_pakovanje":"25"
+				},
+				{
+					"redni_broj":19,
+					"naziv_proizvoda":"Šlag pena 1-1 Katarina",
+					"jedinica_mere":"kom",
+					"VP_cena":247.00,
+					"transportno_pakovanje":"8"
+				},
+				{
+					"redni_broj":20,
+					"naziv_proizvoda":"Šlag pena 100 gr Katarina",
+					"jedinica_mere":"kom",
+					"VP_cena":27.39,
+					"transportno_pakovanje":"25"
+				},				
+				{
+					"redni_broj":21,
+					"naziv_proizvoda":"Ekonomik začin 1 kg Katarina",
+					"jedinica_mere":"kom",
+					"VP_cena":67.60,
+					"transportno_pakovanje":"7"
+				},
+				{
+					"redni_broj":22,
+					"naziv_proizvoda":"Ekonomik začin 500 gr Katarina",
+					"jedinica_mere":"kom",
+					"VP_cena":35.10,
+					"transportno_pakovanje":"12"
+				},				
+				{
+					"redni_broj":23,
+					"naziv_proizvoda":"Puding vanila 100 gr Katarina",
+					"jedinica_mere":"kom",
+					"VP_cena":11.97,
+					"transportno_pakovanje":"30"
+				},
+				{
+					"redni_broj":24,
+					"naziv_proizvoda":"Medenjak čokoladni 300 gr Katarina",
+					"jedinica_mere":"kom",
+					"VP_cena":58.50,
+					"transportno_pakovanje":"10"
+				}
+			]
+		},
+		{
+			"Aleksandrija":[
+				{
+					"redni_broj":,
+					"naziv_proizvoda":"",
+					"jedinica_mere":"",
+					"VP_cena":,
+					"transportno_pakovanje":""
+				}
+			]
+		}
 	]
 }
