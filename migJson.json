@@ -467,14 +467,14 @@
 			"Ženeva Evro S - Lesnica":[
 				{
 					"redni_broj":1,
-					"naziv_proizvoda":"Vanilice filovane višnja 500 gr",
+					"naziv_proizvoda":"Vanilice filovane višnja 500gr",
 					"jedinica_mere":"kom",
 					"VP_cena":106,
 					"transportno_pakovanje":"15"
 				},
 				{
 					"redni_broj":2,
-					"naziv_proizvoda":"Gric keks čoko ježić 180 gr",
+					"naziv_proizvoda":"Gric keks čoko ježić 180gr",
 					"jedinica_mere":"kom",
 					"VP_cena":49.00,
 					"transportno_pakovanje":"18"
@@ -499,6 +499,111 @@
 					"jedinica_mere":"kom",
 					"VP_cena":60.50,
 					"transportno_pakovanje":"18"
+				}
+			]
+		}
+	],
+	"Testenine":[
+		{
+			"Sentela":[
+				{
+					"redni_broj":1,
+					"naziv_proizvoda":"Testenina spirala 350gr",
+					"jedinica_mere":"kom",
+					"VP_cena":28.80,
+					"transportno_pakovanje":"34"
+				},
+				{
+					"redni_broj":2,
+					"naziv_proizvoda":"Testenine kose makarone 350gr",
+					"jedinica_mere":"kom",
+					"VP_cena":28.80,
+					"transportno_pakovanje":"40"
+				},
+				{
+					"redni_broj":3,
+					"naziv_proizvoda":"Testenine grkljančići 8mm 350gr",
+					"jedinica_mere":"kom",
+					"VP_cena":28.80,
+					"transportno_pakovanje":"40"
+				},
+				{
+					"redni_broj":4,
+					"naziv_proizvoda":"Testenina špageti 500gr",
+					"jedinica_mere":"kom",
+					"VP_cena":41.00,
+					"transportno_pakovanje":"30"
+				}
+			]
+		},
+		{
+			"Danubis":[
+				{
+					"redni_broj":1,
+					"naziv_proizvoda":"Danubis makarona vitamin 400gr",
+					"jedinica_mere":"kom",
+					"VP_cena":33.04,
+					"transportno_pakovanje":"30/1"
+				},
+				{
+					"redni_broj":2,
+					"naziv_proizvoda":"Danubis radijator vitaminizirani 400gr",
+					"jedinica_mere":"kom",
+					"VP_cena":33.04,
+					"transportno_pakovanje":"25/1"
+				},
+				{
+					"redni_broj":3,
+					"naziv_proizvoda":"Danubis fida gneydo 400gr",
+					"jedinica_mere":"kom",
+					"VP_cena":33.04,
+					"transportno_pakovanje":"20/1"
+				},
+				{
+					"redni_broj":4,
+					"naziv_proizvoda":"Danubis domaći rezanci motani 40gr",
+					"jedinica_mere":"kom",
+					"VP_cena":33.04,
+					"transportno_pakovanje":"20/1"
+				},
+				{
+					"redni_broj":5,
+					"naziv_proizvoda":"Danubis grkljančići vitaminizirani 400gr",
+					"jedinica_mere":"kom",
+					"VP_cena":33.04,
+					"transportno_pakovanje":"30/1"
+				},
+				{
+					"redni_broj":6,
+					"naziv_proizvoda":"Danubis špageti 400gr",
+					"jedinica_mere":"kom",
+					"VP_cena":33.98,
+					"transportno_pakovanje":"30/1"
+				},
+				{
+					"redni_broj":7,
+					"naziv_proizvoda":"Danubis čipkasto testo 500gr",
+					"jedinica_mere":"kom",
+					"VP_cena":47.14,
+					"transportno_pakovanje":"20/1"
+				},
+				{
+					"redni_broj":8,
+					"naziv_proizvoda":"Danubis pužić 400gr",
+					"jedinica_mere":"kom",
+					"VP_cena":33.04,
+					"transportno_pakovanje":""
+				}
+			]
+		},
+		{
+			"Renesansa Vrbas, Tina Karavukovo":[
+				{
+					"redni_broj":,
+					"naziv_proizvoda":"",
+					"jedinica_mere":"kom",
+					"VP_cena":,
+					"transportno_pakovanje":""
 				}
 			]
 		}
