@@ -378,11 +378,127 @@
 		{
 			"Aleksandrija":[
 				{
-					"redni_broj":,
-					"naziv_proizvoda":"",
-					"jedinica_mere":"",
-					"VP_cena":,
-					"transportno_pakovanje":""
+					"redni_broj":1,
+					"naziv_proizvoda":"Štrudla mešano voće 155 gr",
+					"jedinica_mere":"kom",
+					"VP_cena":47.16,
+					"transportno_pakovanje":"21"
+				},
+				{
+					"redni_broj":2,
+					"naziv_proizvoda":"Štrudla mešano voće  230 gr",
+					"jedinica_mere":"kom",
+					"VP_cena":67.39,
+					"transportno_pakovanje":"14"
+				},
+				{
+					"redni_broj":3,
+					"naziv_proizvoda":"Štrudla smokva 155 gr",
+					"jedinica_mere":"kom",
+					"VP_cena":47.16,
+					"transportno_pakovanje":"21"
+				},
+				{
+					"redni_broj":4,
+					"naziv_proizvoda":"Štrudla smokva 230 gr",
+					"jedinica_mere":"kom",
+					"VP_cena": 67.39,
+					"transportno_pakovanje":"14"
+				},
+				{
+					"redni_broj":5,
+					"naziv_proizvoda":"Štrudla višnja 155 gr",
+					"jedinica_mere":"kom",
+					"VP_cena":47.16,
+					"transportno_pakovanje":"21"
+				},
+				{
+					"redni_broj":6,
+					"naziv_proizvoda":"Štrudla višnja 230 gr",
+					"jedinica_mere":"kom",
+					"VP_cena":67.39,
+					"transportno_pakovanje":"14"
+				},
+				{
+					"redni_broj":7,
+					"naziv_proizvoda":"Štrudla smokva rnf 4 kg",
+					"jedinica_mere":"kg",
+					"VP_cena":238.71,
+					"transportno_pakovanje":"4kg"
+				},
+				{
+					"redni_broj":8,
+					"naziv_proizvoda":"Štrudla mešana rnf 4 kg",
+					"jedinica_mere":"kg",
+					"VP_cena":238.71,
+					"transportno_pakovanje":"4kg"
+				},
+				{
+					"redni_broj":9,
+					"naziv_proizvoda":"Kogo sendvić keks 230 gr",
+					"jedinica_mere":"kg",
+					"VP_cena":72.00,
+					"transportno_pakovanje":"14"
+				},
+				{
+					"redni_broj":10,
+					"naziv_proizvoda":"Novi domaći cookies 250 gr",
+					"jedinica_mere":"kg",
+					"VP_cena":67.00,
+					"transportno_pakovanje":"16"
+				},
+				{
+					"redni_broj":11,
+					"naziv_proizvoda":"Kogo keks rnf 4kg",
+					"jedinica_mere":"kg",
+					"VP_cena":228.00,
+					"transportno_pakovanje":"4kg"
+				},
+				{
+					"redni_broj":12,
+					"naziv_proizvoda":"Novi domaći cookies 5kg",
+					"jedinica_mere":"kg",
+					"VP_cena":228.00,
+					"transportno_pakovanje":"5kg"
+				}
+			]
+		},
+		{
+			"Ženeva Evro S - Lesnica":[
+				{
+					"redni_broj":1,
+					"naziv_proizvoda":"Vanilice filovane višnja 500 gr",
+					"jedinica_mere":"kom",
+					"VP_cena":106,
+					"transportno_pakovanje":"15"
+				},
+				{
+					"redni_broj":2,
+					"naziv_proizvoda":"Gric keks čoko ježić 180 gr",
+					"jedinica_mere":"kom",
+					"VP_cena":49.00,
+					"transportno_pakovanje":"18"
+				},
+				{
+					"redni_broj":3,
+					"naziv_proizvoda":"Gric keks snežana šapica 180 gr",
+					"jedinica_mere":"kom",
+					"VP_cena":44.00,
+					"transportno_pakovanje":"18"
+				},
+				{
+					"redni_broj":4,
+					"naziv_proizvoda":"Keksić vanila 220 gr",
+					"jedinica_mere":"kom",
+					"VP_cena":55.00,
+					"transportno_pakovanje":"18"
+				},
+				{
+					"redni_broj":5,
+					"naziv_proizvoda":"Čoko narandža 220 gr",
+					"jedinica_mere":"kom",
+					"VP_cena":60.50,
+					"transportno_pakovanje":"18"
 				}
 			]
 		}
