@@ -724,11 +724,250 @@
 		{
 			"Koktel sivac":[
 				{
-					"redni_broj":,
-					"naziv_proizvoda":"",
-					"jedinica_mere":"kg",
-					"VP_cena":,
-					"transportno_pakovanje":""
+					"redni_broj":1,
+					"naziv_proizvoda":"Griz pšenični 500gr",
+					"jedinica_mere":"gram",
+					"VP_cena":40.00,
+					"transportno_pakovanje":"10/1"
+				},
+				{
+					"redni_broj":2,
+					"naziv_proizvoda":"Soda bikarbona 500gr",
+					"jedinica_mere":"gram",
+					"VP_cena":41.00,
+					"transportno_pakovanje":"10/1"
+				},
+				{
+					"redni_broj":3,
+					"naziv_proizvoda":"Pirinač 500gr",
+					"jedinica_mere":"gram",
+					"VP_cena":55.00,
+					"transportno_pakovanje":"20/1"
+				},
+				{
+					"redni_broj":4,
+					"naziv_proizvoda":"Kukuruz kokičar 500gr",
+					"jedinica_mere":"gram",
+					"VP_cena":108.00,
+					"transportno_pakovanje":"10/1"
+				},
+				{
+					"redni_broj":5,
+					"naziv_proizvoda":"Biber crni mleveni 500gr",
+					"jedinica_mere":"gram",
+					"VP_cena":750.00,
+					"transportno_pakovanje":"10/1"
+				},
+				{
+					"redni_broj":6,
+					"naziv_proizvoda":"Šlag 500gr",
+					"jedinica_mere":"gram",
+					"VP_cena":165.00,
+					"transportno_pakovanje":"10/1"
+				},
+				{
+					"redni_broj":7,
+					"naziv_proizvoda":"Žito za kuvanje",
+					"jedinica_mere":"gram",
+					"VP_cena":68.00,
+					"transportno_pakovanje":"10/1"
+				},
+				,
+				{
+					"redni_broj":8,
+					"naziv_proizvoda":"Kukuruz kokičar 250gr",
+					"jedinica_mere":"gram",
+					"VP_cena":48.00,
+					"transportno_pakovanje":"20/1"
+				},
+				{
+					"redni_broj":9,
+					"naziv_proizvoda":"Griz pšenični 200gr",
+					"jedinica_mere":"gram",
+					"VP_cena":15.80,
+					"transportno_pakovanje":"20/1"
+				},
+				{
+					"redni_broj":10,
+					"naziv_proizvoda":"Prezla 200gr",
+					"jedinica_mere":"gram",
+					"VP_cena":21.00,
+					"transportno_pakovanje":"20/1"
+				},
+				{
+					"redni_broj":11,
+					"naziv_proizvoda":"Skrob 200gr",
+					"jedinica_mere":"gram",
+					"VP_cena":22.00,
+					"transportno_pakovanje":"20/1"
+				},
+				{
+					"redni_broj":12,
+					"naziv_proizvoda":"Mleko u prahu 200gr",
+					"jedinica_mere":"gram",
+					"VP_cena":169.00,
+					"transportno_pakovanje":"10/1"
+				},
+				{
+					"redni_broj":13,
+					"naziv_proizvoda":"Kokos brašno 100gr",
+					"jedinica_mere":"gram",
+					"VP_cena":45.00,
+					"transportno_pakovanje":"20/1"
+				},
+				{
+					"redni_broj":14,
+					"naziv_proizvoda":"Suvo grožđe 100gr",
+					"jedinica_mere":"gram",
+					"VP_cena":37.00,
+					"transportno_pakovanje":"30/1"
+				},
+				{
+					"redni_broj":15,
+					"naziv_proizvoda":"Susam 100gr",
+					"jedinica_mere":"gram",
+					"VP_cena":56.50,
+					"transportno_pakovanje":"20/1"
+				},
+				{
+					"redni_broj":16,
+					"naziv_proizvoda":"Limuntus 100gr",
+					"jedinica_mere":"gram",
+					"VP_cena":23.00,
+					"transportno_pakovanje":"20/1"
+				},
+				{
+					"redni_broj":17,
+					"naziv_proizvoda":"Mak 100gr",
+					"jedinica_mere":"gram",
+					"VP_cena":59.00,
+					"transportno_pakovanje":"20/1"
+				},
+				{
+					"redni_broj":18,
+					"naziv_proizvoda":"Biber crni mleveni 100gr",
+					"jedinica_mere":"gram",
+					"VP_cena":168.00,
+					"transportno_pakovanje":"20/1"
+				},
+				{
+					"redni_broj":19,
+					"naziv_proizvoda":"Suncokret 100gr",
+					"jedinica_mere":"gram",
+					"VP_cena":28.00,
+					"transportno_pakovanje":"20/1"
+				},
+				{
+					"redni_broj":20,
+					"naziv_proizvoda":"Biber crni mleveni 50gr",
+					"jedinica_mere":"gram",
+					"VP_cena":85.00,
+					"transportno_pakovanje":"20/1"
+				},
+				{
+					"redni_broj":21,
+					"naziv_proizvoda":"Biber crni zrno 50gr",
+					"jedinica_mere":"gram",
+					"VP_cena":136.00,
+					"transportno_pakovanje":"20/1"
+				},
+				{
+					"redni_broj":22,
+					"naziv_proizvoda":"Biber beli mleveni 50gr",
+					"jedinica_mere":"gram",
+					"VP_cena":133.00,
+					"transportno_pakovanje":"20/1"
+				},
+				{
+					"redni_broj":23,
+					"naziv_proizvoda":"Biber crni mleveni 10gr",
+					"jedinica_mere":"gram",
+					"VP_cena":18.00,
+					"transportno_pakovanje":"50/500"
+				},
+				{
+					"redni_broj":24,
+					"naziv_proizvoda":"Biber crni zrno 10gr",
+					"jedinica_mere":"gram",
+					"VP_cena":28.00,
+					"transportno_pakovanje":"50/500"
+				},
+				{
+					"redni_broj":25,
+					"naziv_proizvoda":"Vanilin šećer",
+					"jedinica_mere":"gram",
+					"VP_cena":3.30,
+					"transportno_pakovanje":"100/500"
+				},
+				{
+					"redni_broj":26,
+					"naziv_proizvoda":"Prašak za pecivo 10gr",
+					"jedinica_mere":"gram",
+					"VP_cena":3.90,
+					"transportno_pakovanje":"100/500"
+				},
+				{
+					"redni_broj":27,
+					"naziv_proizvoda":"Origano 3gr",
+					"jedinica_mere":"gram",
+					"VP_cena":4.00,
+					"transportno_pakovanje":"50/500"
+				},
+				{
+					"redni_broj":28,
+					"naziv_proizvoda":"Cimet 10gr",
+					"jedinica_mere":"gram",
+					"VP_cena":8.00,
+					"transportno_pakovanje":"50/500"
+				},
+				{
+					"redni_broj":29,
+					"naziv_proizvoda":"Soda bikarbona 20gr",
+					"jedinica_mere":"gram",
+					"VP_cena":4.20,
+					"transportno_pakovanje":"100/500"
+				},
+				{
+					"redni_broj":30,
+					"naziv_proizvoda":"Želatin 10gr",
+					"jedinica_mere":"gram",
+					"VP_cena":18.00,
+					"transportno_pakovanje":"50/500"
+				},
+				{
+					"redni_broj":31,
+					"naziv_proizvoda":"Limuntus 10gr",
+					"jedinica_mere":"gram",
+					"VP_cena":4.40,
+					"transportno_pakovanje":"100/500"
+				},
+				{
+					"redni_broj":32,
+					"naziv_proizvoda":"Konzervans 5gr",
+					"jedinica_mere":"gram",
+					"VP_cena":4.00,
+					"transportno_pakovanje":"100/500"
+				},
+				{
+					"redni_broj":33,
+					"naziv_proizvoda":"Vinobran 10gr",
+					"jedinica_mere":"gram",
+					"VP_cena":5.50,
+					"transportno_pakovanje":"100/500"
+				},
+				{
+					"redni_broj":34,
+					"naziv_proizvoda":"Šlag pena 40gr",
+					"jedinica_mere":"gram",
+					"VP_cena":17.00,
+					"transportno_pakovanje":"30/120"
+				},
+				{
+					"redni_broj":35,
+					"naziv_proizvoda":"Šećer u prahu",
+					"jedinica_mere":"gram",
+					"VP_cena":38.00,
+					"transportno_pakovanje":"20/100"
 				}
 			]
 		}
