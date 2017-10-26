@@ -554,7 +554,7 @@
 				},
 				{
 					"redni_broj":3,
-					"naziv_proizvoda":"Danubis fida gneydo 400gr",
+					"naziv_proizvoda":"Danubis fida gnezdo 400gr",
 					"jedinica_mere":"kom",
 					"VP_cena":33.04,
 					"transportno_pakovanje":"20/1"
@@ -599,13 +599,138 @@
 		{
 			"Renesansa Vrbas, Tina Karavukovo":[
 				{
+					"redni_broj":1,
+					"naziv_proizvoda":"Testenina Makarona Tina rnf",
+					"jedinica_mere":"kg",
+					"VP_cena":74.00,
+					"transportno_pakovanje":"10"
+				},
+				{
+					"redni_broj":2,
+					"naziv_proizvoda":"Testenina spirala Jana rnf",
+					"jedinica_mere":"kg",
+					"VP_cena":74.00,
+					"transportno_pakovanje":"10"
+				},
+				{
+					"redni_broj":3,
+					"naziv_proizvoda":"Testenina fida rnf Jana",
+					"jedinica_mere":"kg",
+					"VP_cena":74.00,
+					"transportno_pakovanje":"10"
+				},
+				{
+					"redni_broj":4,
+					"naziv_proizvoda":"Testenina široki rezanac Jana rnf",
+					"jedinica_mere":"kg",
+					"VP_cena":74.00,
+					"transportno_pakovanje":"10"
+				},
+				{
+					"redni_broj":5,
+					"naziv_proizvoda":"Testenina Makaron Jana",
+					"jedinica_mere":"kg",
+					"VP_cena":74.00,
+					"transportno_pakovanje":"10"
+				},
+				{
+					"redni_broj":6,
+					"naziv_proizvoda":"Testenina školjka Jana",
+					"jedinica_mere":"kg",
+					"VP_cena":74.00,
+					"transportno_pakovanje":"10"
+				},
+				{
+					"redni_broj":7,
+					"naziv_proizvoda":"Testenina puž Jana",
+					"jedinica_mere":"kg",
+					"VP_cena":74.00,
+					"transportno_pakovanje":"10"
+				},
+				{
+					"redni_broj":8,
+					"naziv_proizvoda":"Testenina  čipka Jana rnf",
+					"jedinica_mere":"kg",
+					"VP_cena":74.00,
+					"transportno_pakovanje":"10"
+				},
+				{
+					"redni_broj":9,
+					"naziv_proizvoda":"Makarona filipili 300gr Renesansa",
+					"jedinica_mere":"kom",
+					"VP_cena":26.00,
+					"transportno_pakovanje":"20"
+				},
+				{
+					"redni_broj":10,
+					"naziv_proizvoda":"Spirala filipili 300gr Renesansa",
+					"jedinica_mere":"kom",
+					"VP_cena":26.00,
+					"transportno_pakovanje":"20"
+				},
+				{
+					"redni_broj":11,
+					"naziv_proizvoda":"Puž filipili 300gr Renesansa",
+					"jedinica_mere":"kom",
+					"VP_cena":26.00,
+					"transportno_pakovanje":"20"
+				},
+				{
+					"redni_broj":12,
+					"naziv_proizvoda":"Čipka filipili 250gr Renesansa",
+					"jedinica_mere":"kom",
+					"VP_cena":22.95,
+					"transportno_pakovanje":"20"
+				},
+				{
+					"redni_broj":13,
+					"naziv_proizvoda":"Domaći rezanci extra široki filipili 250gr Renesansa",
+					"jedinica_mere":"kom",
+					"VP_cena":22.95,
+					"transportno_pakovanje":"20"
+				},
+				{
+					"redni_broj":14,
+					"naziv_proizvoda":"Špagete filipili 300gr Renesansa",
+					"jedinica_mere":"kom",
+					"VP_cena":28.56,
+					"transportno_pakovanje":"20"
+				},
+				{
+					"redni_broj":15,
+					"naziv_proizvoda":"Fida filipili 250gr Renesansa",
+					"jedinica_mere":"kom",
+					"VP_cena":22.95,
+					"transportno_pakovanje":"20"
+				},
+				{
+					"redni_broj":16,
+					"naziv_proizvoda":"Široki filipili 250gr Renesansa",
+					"jedinica_mere":"kom",
+					"VP_cena":22.95,
+					"transportno_pakovanje":"20"
+				},
+				{
+					"redni_broj":17,
+					"naziv_proizvoda":"Fida gnezdo filipili 250gr Renesansa",
+					"jedinica_mere":"kom",
+					"VP_cena":22.95,
+					"transportno_pakovanje":"20"
+				}
+			]
+		}
+	],
+	"Pakeraj":[
+		{
+			"Koktel sivac":[
+				{
 					"redni_broj":,
 					"naziv_proizvoda":"",
-					"jedinica_mere":"kom",
+					"jedinica_mere":"kg",
 					"VP_cena":,
 					"transportno_pakovanje":""
 				}
 			]
 		}
-	]
+	],
 }
