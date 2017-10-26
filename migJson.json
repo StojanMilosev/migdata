@@ -970,6 +970,66 @@
 					"transportno_pakovanje":"20/100"
 				}
 			]
+		},
+		{
+			"Ares":[
+				{
+					"redni_broj":1,
+					"naziv_proizvoda":"Palenta Ares 450gr",
+					"jedinica_mere":"kom",
+					"VP_cena":39.20,
+					"transportno_pakovanje":"10"
+				},
+				{
+					"redni_broj":2,
+					"naziv_proizvoda":"Brašno kukuruzno Ares 450gr",
+					"jedinica_mere":"kom",
+					"VP_cena":29.40,
+					"transportno_pakovanje":"10"
+				},
+				{
+					"redni_broj":3,
+					"naziv_proizvoda":"Prezla Ares 200gr",
+					"jedinica_mere":"kom",
+					"VP_cena":20.40,
+					"transportno_pakovanje":"20"
+				},
+				{
+					"redni_broj":4,
+					"naziv_proizvoda":"Šećer u prahu Ares 200gr",
+					"jedinica_mere":"kom",
+					"VP_cena":30.50,
+					"transportno_pakovanje":"20"
+				},
+				{
+					"redni_broj":5,
+					"naziv_proizvoda":"Kakao Ares 80gr",
+					"jedinica_mere":"kom",
+					"VP_cena":40.70,
+					"transportno_pakovanje":"20"
+				},
+				{
+					"redni_broj":6,
+					"naziv_proizvoda":"Pšenični griz Ares 450gr",
+					"jedinica_mere":"kom",
+					"VP_cena":37.80,
+					"transportno_pakovanje":"10"
+				},
+				{
+					"redni_broj":7,
+					"naziv_proizvoda":"Kokos brašno Ares 100gr",
+					"jedinica_mere":"kom",
+					"VP_cena":44.50,
+					"transportno_pakovanje":"20"
+				},
+				{
+					"redni_broj":8,
+					"naziv_proizvoda":"Suvo grožđe Ares 100gr",
+					"jedinica_mere":"kom",
+					"VP_cena":42.50,
+					"transportno_pakovanje":"20"
+				}
+			]
 		}
 	],
 }
